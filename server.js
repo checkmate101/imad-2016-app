@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/mypage', fucntion (req,res) {
- res.sendFile(path.join(__dirname, 'ui', 'arsenal-logo.png'));   
+ res.sendFile(path.join((__dirname, 'ui', 'arsenal-logo.png'));   
 })
 
 
