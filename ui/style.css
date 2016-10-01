@@ -12,6 +12,10 @@ body {
     font-size: 200%;
 }
 
+.container {
+    text-align: center;
+}
+
 .bold {
     font-weight: bold;
 }
